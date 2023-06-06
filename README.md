@@ -12,5 +12,5 @@ Se diriger vers le dossier `tests` puis le fichier `calcul.spec.ts` pour voir le
 
 ## Effectuer le test
 
-Lancer la commande `npx playwright test --ui`
+Lancer la commande `npx playwright test --ui`<br/><br/>
 Une fenêtre "Playwright Test" s'ouvre. Cliquer sur `Run` sur le fichier à tester.
